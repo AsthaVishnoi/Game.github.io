@@ -1,4 +1,4 @@
 # game.github.io
 
-To open my website :
+To play the game :
 http://bitly.ws/xQao
